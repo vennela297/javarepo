@@ -1,5 +1,5 @@
 import java.util.*;
-class HelloWorld {
+class leapyear {
     public static void main(String[] args) {
         System.out.println("Enter the date");
         Scanner scan=new Scanner(System.in);
